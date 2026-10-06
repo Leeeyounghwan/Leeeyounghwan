@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Yeonghwan Lee</title>
+  <desc id="desc">Backend-oriented Software Developer</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b2535"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#39d0d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="38" r="190" fill="#58a6ff" opacity=".055"/>
+  <circle cx="1115" cy="255" r="145" fill="#39d0d8" opacity=".045"/>
+  <rect x="72" y="64" width="8" height="172" rx="4" fill="url(#accent)"/>
+  <text x="112" y="124" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing=".5">YEONGHWAN LEE</text>
+  <text x="114" y="168" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Backend-oriented Software Developer</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">
+    <rect x="112" y="198" width="108" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <text x="133" y="220" fill="#79c0ff">Java</text>
+    <rect x="230" y="198" width="150" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <text x="252" y="220" fill="#7ee787">Spring Boot</text>
+    <rect x="390" y="198" width="116" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <text x="413" y="220" fill="#a5d6ff">React</text>
+    <rect x="516" y="198" width="124" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <text x="538" y="220" fill="#ffa657">Oracle</text>
+    <rect x="650" y="198" width="96" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <text x="676" y="220" fill="#d2a8ff">AWS</text>
+    <rect x="756" y="198" width="82" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+    <text x="783" y="220" fill="#56d4dd">AI</text>
+  </g>
+  <text x="1018" y="246" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">&gt; build · learn · improve</text>
+</svg>
